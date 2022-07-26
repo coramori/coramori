@@ -3,7 +3,7 @@ Hi! 👋 I'm Cora
 </h2>
 
 <p align='center'>
-  Front-End student from Brazil
+  Software Engineering student from Brazil
 </p>
 
 <p align='center'>
