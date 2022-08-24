@@ -1,14 +1,14 @@
-<h2 align='center'>
-Hi! 👋 I'm Cora
-</h2>
+<h2 align='center'><samp>
+  Hi! 👋 I'm Cora
+</samp></h2>
 
-<p align='center'>
+<p align='center'><samp>
   Software Engineering student from Brazil
-</p>
+</samp></p>
 
-<p align='center'>
+<p align='center'><samp>
   I'm currently building my portfolio and learning these:
-</p>
+</samp></p>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,6 +20,11 @@ Hi! 👋 I'm Cora
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=coramori&show_icons=true&theme=dracula&hide=stars"></a>
 </p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coramori&layout=compact&theme=dracula"></a>
+</p>
+
 
 <!--
 **coramori/coramori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
