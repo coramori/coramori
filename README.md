@@ -3,7 +3,7 @@
 </samp></h2>
 
 <p align='center'>
-  Software Development student from Brazil<br>
+  Jr Software Development from Brazil<br>
   <h4 align='center'><b>Current tools & technologies I'm using:</b></h4>
 </p>
 
