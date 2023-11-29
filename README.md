@@ -1,9 +1,6 @@
 <h2 align='center'><samp>
   Hi! 👋 I'm Cora
-
-<h4 align='center'>
-  Jr Software Developer from Brazil<br>
-</h4></samp></h2>
+</samp></h2>
 
 <p align='center'>  
   <h3 align='center'><b>Tools & technologies I'm familiar with:</b></h3><p>
